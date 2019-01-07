@@ -1,0 +1,60 @@
+h1
+{
+	color:black;
+}
+
+body
+{
+	background-image: url("wallpaper.jpg");
+	background-attachment: fixed;
+	
+}
+
+#carte
+
+{
+
+ width: 800px;
+
+ margin:0 auto;
+
+ background-color: white;
+
+ text-align: center;
+
+ align-content: center;
+
+}
+td,th
+{
+	border: 1px solid blue;
+
+}
+table
+{
+	border-collapse: collapse;
+	margin: auto;
+
+
+}
+
+th
+{
+	background-color: grey
+}
+
+
+td
+{
+text-align :center;
+}
+
+.git{
+	width: 70px;
+	height: 70px;
+}
+
+.lik{
+	width: 70px;
+	height: 70px;
+}
