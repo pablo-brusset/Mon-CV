@@ -1,27 +1,22 @@
-h1
-{
+h1{
 	color:black;
 }
 
-body
-{
+body{
 	background-image: url("wallpaper.jpg");
 	background-attachment: fixed;
-	
+    background-repeat: no-repeat;	
+}
+.text p{
+    font-style: italic;
+    
 }
 
-#carte
-
-{
-
+#carte{
  width: 800px;
-
  margin:0 auto;
-
  background-color: white;
-
  text-align: center;
-
  align-content: center;
 
 }
@@ -34,15 +29,15 @@ table
 {
 	border-collapse: collapse;
 	margin: auto;
-
-
 }
-
 th
 {
 	background-color: grey
 }
 
+.telechargement{
+   
+}
 
 td
 {
